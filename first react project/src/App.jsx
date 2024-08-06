@@ -3,7 +3,7 @@ function App() {
   
 
   return (
-    <h1>click me | my first react project</h1>
+    <h1>hii | its</h1>
   )
 }
 
